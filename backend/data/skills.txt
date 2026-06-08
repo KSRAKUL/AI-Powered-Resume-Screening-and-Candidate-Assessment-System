@@ -1,0 +1,27 @@
+Python
+Java
+C++
+SQL
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Pandas
+NumPy
+Scikit-learn
+Docker
+Kubernetes
+AWS
+Azure
+Git
+GitHub
+HTML
+CSS
+JavaScript
+React
+NodeJS
+Flask
+Django
+Power BI
+Tableau
+Linux

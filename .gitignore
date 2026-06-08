@@ -1,0 +1,36 @@
+# Python virtual environments
+venv/
+.venv/
+ENV/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js dependencies & builds
+node_modules/
+.next/
+out/
+build/
+.yarn/
+.pnp
+.pnp.*
+
+# Uploads and temporary files
+uploads/
+backend/uploads/
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db

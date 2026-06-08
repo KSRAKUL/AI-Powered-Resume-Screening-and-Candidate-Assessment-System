@@ -1,0 +1,6 @@
+pdfplumber
+nltk
+fastapi
+uvicorn
+python-multipart
+requests
