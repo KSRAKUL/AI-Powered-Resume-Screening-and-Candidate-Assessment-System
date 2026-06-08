@@ -179,7 +179,7 @@ The application uses a **fully decoupled client–server architecture**:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/DhanushS-11/AI-Powered-Resume-Screening-and-Candidate-Assessment-System.git
+git clone https://github.com/KSRAKUL/AI-Powered-Resume-Screening-and-Candidate-Assessment-System.git
 cd AI-Powered-Resume-Screening-and-Candidate-Assessment-System
 ```
 
@@ -415,10 +415,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Built with 💜 by [Dhanush S](https://github.com/DhanushS-11)**
+**Built with 💜 by [Rakul K S](https://github.com/KSRAKUL)**
 
 *If this helped you, consider giving it a ⭐ on GitHub!*
 
 </div>
-#   A I - P o w e r e d - R e s u m e - S c r e e n i n g - a n d - C a n d i d a t e - A s s e s s m e n t - S y s t e m  
- 
